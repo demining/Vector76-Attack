@@ -9,6 +9,14 @@
 <p>With the development of cryptocurrency technologies and the increasing popularity of Bitcoin, various software such as&nbsp;<strong>Flash Bitcoin Software</strong>&nbsp;and&nbsp;<strong>Fake BTC Software</strong>&nbsp;have appeared in the market . These programs can lead to disastrous consequences on the&nbsp;<strong>Bitcoin</strong>&nbsp;ecosystem . In this article, we will look at what these softwares are, how they work and what impact they have on the&nbsp;<strong>Bitcoin</strong>&nbsp;cryptocurrency using real data , as well as how these various softwares use the&nbsp;<a href="https://cryptodeeptech.ru/vector76-attack" target="_blank" rel="noreferrer noopener"><strong>Vector76 Attack</strong></a>&nbsp;mechanism , which is a type of <a href="https://en.wikipedia.org/wiki/Double-spending" target="_blank" rel="noreferrer noopener">double-spending</a>&nbsp;attack , in which an attacker tries to conduct the same transaction twice. Unlike the classic double-spending attack, Vector76 exploits vulnerabilities in transaction confirmation mechanisms and time delays in the propagation of blocks across the Bitcoin network.</p>
 
 
+---
+
+* Tutorial: https://youtu.be/Mk_BPBCXd3I
+* Tutorial: https://cryptodeeptech.ru/vector76-attack
+* Google Colab: https://colab.research.google.com/drive/1VoEMueKTxGedLfi1PprkuGYMPL5tZBQK
+
+---
+
 
 <p>In a Vector76 attack, the attacker first creates two transactions: one to send funds to their Bitcoin address and one to send the same funds to the merchant’s Bitcoin address. They then try to convince the merchant to accept the unconfirmed transaction while simultaneously broadcasting the other transaction to the network. If the attacker manages to complete their transaction before the merchant receives confirmation, the funds will be sent to the attacker’s address rather than the merchant’s.</p>
 
