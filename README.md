@@ -13,7 +13,7 @@
 
 * Tutorial: https://youtu.be/Mk_BPBCXd3I
 * Tutorial: https://cryptodeeptech.ru/vector76-attack
-* Google Colab: https://colab.research.google.com/drive/1VoEMueKTxGedLfi1PprkuGYMPL5tZBQK
+* Google Colab: https://github.com/demining/CryptoDeepTools/blob/main/34Vector76Attack/Vector76_Attack.ipynb
 
 ---
 
@@ -426,7 +426,7 @@ https://youtube.com/watch?v=VCeQpYsh-Ts%3Fsi%3DZ6YV233mXvbY-SIt
 
 
 
-<p><a href="https://btc1.trezor.io/address/1888dvSYUx23z2NF79NyCaYQ8dxcWCjHDz" target="_blank" rel="noreferrer noopener">https://btc1.trezor.io/address/1888dvSYUx23z2N</a>Now let’s use the&nbsp;<em><strong>Python</strong></em>&nbsp;script:&nbsp;<a href="https://github.com/smartiden/Broadcast-Bitcoin-Transaction/blob/main/pushtx.py" target="_blank" rel="noreferrer noopener"><strong>pushtx.py</strong></a>&nbsp;to send&nbsp;<strong>Bitcoin Transaction RawTX</strong><a href="https://btc1.trezor.io/address/1888dvSYUx23z2NF79NyCaYQ8dxcWCjHDz" target="_blank" rel="noreferrer noopener">F79NyCaYQ8dxcWCjHDz</a></p>
+<p><a href="https://btc1.trezor.io/address/1888dvSYUx23z2NF79NyCaYQ8dxcWCjHDz" target="_blank" rel="noreferrer noopener">https://btc1.trezor.io/address/1888dvSYUx23z2N</a>Now let’s use the&nbsp;<em><strong>Python</strong></em>&nbsp;script:&nbsp;<a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/pushtx.py" target="_blank" rel="noreferrer noopener"><strong>pushtx.py</strong></a>&nbsp;to send&nbsp;<strong>Bitcoin Transaction RawTX</strong><a href="https://btc1.trezor.io/address/1888dvSYUx23z2NF79NyCaYQ8dxcWCjHDz" target="_blank" rel="noreferrer noopener">F79NyCaYQ8dxcWCjHDz</a></p>
 
 
 
@@ -438,11 +438,11 @@ https://youtube.com/watch?v=VCeQpYsh-Ts%3Fsi%3DZ6YV233mXvbY-SIt
 
 
 
-<p>Clone the&nbsp;<a href="https://github.com/smartiden/Broadcast-Bitcoin-Transaction.git" target="_blank" rel="noreferrer noopener"><strong>Broadcast-Bitcoin-Transaction repository</strong></a></p>
+<p>Clone the&nbsp;<a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction.git" target="_blank" rel="noreferrer noopener"><strong>Broadcast-Bitcoin-Transaction repository</strong></a></p>
 
 
 
-<pre class="wp-block-code has-text-color has-link-color wp-elements-d633e6909fcf462f03472795674f3879" style="color:#4092c2"><code><strong>!git clone https://github.com/smartiden/Broadcast-Bitcoin-Transaction.git
+<pre class="wp-block-code has-text-color has-link-color wp-elements-d633e6909fcf462f03472795674f3879" style="color:#4092c2"><code><strong>!git clone https://github.com/smartibase/Broadcast-Bitcoin-Transaction.git
 
 cd Broadcast-Bitcoin-Transaction/
 
@@ -457,7 +457,7 @@ ls</strong></code></pre>
 
 
 
-<p>Run&nbsp;<strong><em>Python</em></strong>&nbsp;script&nbsp;<strong><a href="https://github.com/smartiden/Broadcast-Bitcoin-Transaction/blob/main/bitcoin_info.py" target="_blank" rel="noreferrer noopener">bitcoin_info.py</a>&nbsp;</strong><em>(to check the Bitcoin sender address)</em></p>
+<p>Run&nbsp;<strong><em>Python</em></strong>&nbsp;script&nbsp;<strong><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/bitcoin_info.py" target="_blank" rel="noreferrer noopener">bitcoin_info.py</a>&nbsp;</strong><em>(to check the Bitcoin sender address)</em></p>
 
 
 
@@ -598,7 +598,7 @@ https://youtube.com/watch?v=qjcFNV90p8I%3Fsi%3DjlnG-yg3Od3XH2bX
 
 
 
-<p>Now let’s use the&nbsp;<em><strong>Python</strong></em>&nbsp;script:&nbsp;<a href="https://github.com/smartiden/Broadcast-Bitcoin-Transaction/blob/main/pushtx.py" target="_blank" rel="noreferrer noopener"><strong>pushtx.py</strong></a>&nbsp;to send&nbsp;<strong>Bitcoin Transaction RawTX</strong></p>
+<p>Now let’s use the&nbsp;<em><strong>Python</strong></em>&nbsp;script:&nbsp;<a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/pushtx.py" target="_blank" rel="noreferrer noopener"><strong>pushtx.py</strong></a>&nbsp;to send&nbsp;<strong>Bitcoin Transaction RawTX</strong></p>
 
 
 
@@ -774,7 +774,7 @@ https://youtube.com/watch?v=HboBRmiCfIQ%3Fsi%3D8RXJPtmeZSKhEdhb
 
 
 
-<p>Now let’s use the&nbsp;<em><strong>Python</strong></em>&nbsp;script:&nbsp;<a href="https://github.com/smartiden/Broadcast-Bitcoin-Transaction/blob/main/pushtx.py" target="_blank" rel="noreferrer noopener"><strong>pushtx.py</strong></a>&nbsp;to send&nbsp;<strong>Bitcoin Transaction RawTX</strong></p>
+<p>Now let’s use the&nbsp;<em><strong>Python</strong></em>&nbsp;script:&nbsp;<a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/pushtx.py" target="_blank" rel="noreferrer noopener"><strong>pushtx.py</strong></a>&nbsp;to send&nbsp;<strong>Bitcoin Transaction RawTX</strong></p>
 
 
 
@@ -826,7 +826,7 @@ Broadcasting Transactions into the Bitcoin Network: https://broad-casts.ru/bitco
 <figure class="aligncenter"><img decoding="async" src="./Vector76 Attack Researching and Preventing Threats to the Bitcoin Network Detailed Cryptanalysis Based on Real Data - CRYPTO DEEP TECH_files/001-1024x768.png" alt="Vector76 Attack: Researching and Preventing Threats to the Bitcoin Network Detailed Cryptanalysis Based on Real Data" class="wp-image-5606"></figure></div>
 
 
-<p>To add an option to an empty field, we need to get input data for certain values ​​to configure the mining block. To do this, run the&nbsp;<strong><em>Python</em></strong>&nbsp;script:&nbsp;<a href="https://github.com/smartiden/Broadcast-Bitcoin-Transaction/blob/main/block_header.py" target="_blank" rel="noreferrer noopener"><strong>block_header.py</strong></a><strong>&nbsp;and enter the UTXO</strong>&nbsp;value we know,&nbsp;which we previously added to the&nbsp;<strong>Prev TXID</strong>&nbsp;option hash when creating&nbsp;<strong>the Raw</strong>&nbsp;transaction&nbsp;<strong>Prev TXID&nbsp;: 3141bd1a32ac5e5b1a0de837faceccbc78f80f277c060855eab23be0fbe6e861</strong></p>
+<p>To add an option to an empty field, we need to get input data for certain values ​​to configure the mining block. To do this, run the&nbsp;<strong><em>Python</em></strong>&nbsp;script:&nbsp;<a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/block_header.py" target="_blank" rel="noreferrer noopener"><strong>block_header.py</strong></a><strong>&nbsp;and enter the UTXO</strong>&nbsp;value we know,&nbsp;which we previously added to the&nbsp;<strong>Prev TXID</strong>&nbsp;option hash when creating&nbsp;<strong>the Raw</strong>&nbsp;transaction&nbsp;<strong>Prev TXID&nbsp;: 3141bd1a32ac5e5b1a0de837faceccbc78f80f277c060855eab23be0fbe6e861</strong></p>
 
 
 
